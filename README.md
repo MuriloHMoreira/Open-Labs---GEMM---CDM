@@ -12,4 +12,5 @@ Para os que desejarem instlar o Jupyter, o tutorial abaixo pe altamente recomend
 
 
 Qualquer dúvida, basta entrar em contato.
-Boa sorte e boas análises!
+
+**Boa sorte e boas análises!**
