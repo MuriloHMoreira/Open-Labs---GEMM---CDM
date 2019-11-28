@@ -7,7 +7,7 @@ Para um primeiro contato (e inclusive no decorrer das oficinas) é recomendável
 
 **Importante: As alterações no Binder não são salvas - Caso deseje salvar as alterações, baixe os arquivos pelo próprio menu do Jupyter**
 
-Para os que desejarem instlar o Jupyter, o tutorial abaixo pe altamente recomendado:
+Para os que desejarem instalar o Jupyter, o tutorial abaixo é altamente recomendado:
 
 [Como instalar o Jupyeter Notebook no Windows e Linux](https://medium.com/matheusbudkewicz/como-instalar-o-jupyter-notebook-windows-e-linux-20701fc583c)
 
